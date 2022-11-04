@@ -16,7 +16,7 @@ $(document).ready(function() {
         m1: Date.parse("Feb 1 2022 00:00:00")
     }, {
         name: "Quý Mão",
-        m1: Date.parse("Jan 22 2023 00:00:00")
+        m1: Date.parse("Nov 04 2022 00:00:00")
     }, {
         name: "Giáp Thìn",
         m1: Date.parse("Feb 10 2024 00:00:00")
